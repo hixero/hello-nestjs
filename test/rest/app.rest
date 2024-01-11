@@ -1,0 +1,15 @@
+GET http://localhost:3000/
+
+###
+
+GET http://localhost:3000/docs
+
+###
+
+GET http://localhost:3000/docs?version=3
+
+###
+
+GET http://localhost:3000/docs?version=5
+
+###
